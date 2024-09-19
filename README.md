@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi i'm Alfie currently a student at RGU
 
 <!--
 **Spectre7651/Spectre7651** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
