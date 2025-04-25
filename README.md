@@ -7,6 +7,14 @@
   - C# and .NET frameworks
   - Cisco network administration
   - SQL database management
+
+### 🏆 Skills
+  - Python3
+  - C# / .NET
+  - HTML/CSS/Javascript
+  - Linux Command Line Administration / Development
+  - Ansible Remote Management
+  - Basic Cisco Network Administration (CLI/GUI)
 <!--
 **Spectre7651/Spectre7651** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
