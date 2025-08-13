@@ -18,7 +18,7 @@ Open to work experience opportunities around the Aberdeen Area
   - Basic Cisco Network Administration (CLI/GUI)
 
 ### 📫 How to contact me:
-  - LinkedIn: linkedin.com/in/alfie-ford-834422330
+  - LinkedIn: <https://linkedin.com/in/alfie-ford-834422330>
   - Email: alfieford.cybersec@protonmail.com
 <!--
 **Spectre7651/Spectre7651** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
