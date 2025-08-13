@@ -1,4 +1,5 @@
 ## Student at Robert Gordon University studying Bsc (Hons) Cyber Security aspiring to become a Cyber Security Consultant
+Open to work experience opportunities around the Aberdeen Area
 
 ### 🔭 I’m currently working on:
   - Ansible automation for my little homelab setup of a couple of Raspberry Pi's and assorted hardware
@@ -15,6 +16,10 @@
   - Linux Command Line Administration / Development
   - Ansible Remote Management
   - Basic Cisco Network Administration (CLI/GUI)
+
+### 📫 How to contact me:
+  - LinkedIn: linkedin.com/in/alfie-ford-834422330
+  - Email: alfieford.cybersec@protonmail.com
 <!--
 **Spectre7651/Spectre7651** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
