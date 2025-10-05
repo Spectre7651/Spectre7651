@@ -1,5 +1,5 @@
 ## Student at Robert Gordon University studying Bsc (Hons) Cyber Security aspiring to become a Cyber Security Consultant
-Open to work experience opportunities around the Aberdeen Area
+Open to work experience opportunities around the Aberdeen Area specifically in Cyber Security roles or Software Development
 
 ## 💫 About Me:
 ### 🔭 I’m currently working on:
@@ -27,11 +27,5 @@ Open to work experience opportunities around the Aberdeen Area
 ![](https://github-readme-stats.vercel.app/api?username=Spectre7651&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Spectre7651&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Spectre7651&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Spectre7651&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Spectre7651&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
