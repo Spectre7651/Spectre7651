@@ -1,5 +1,6 @@
 ## Student at Robert Gordon University studying Bsc (Hons) Cyber Security aspiring to become a Cyber Security Consultant
 Open to work experience opportunities around the Aberdeen area specifically in <b>Cyber Security, Network Administration </b>or<b> Software Development</b> positions
+
 ### 💻 Tech Stack:
 #### Favorites
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
@@ -29,10 +30,15 @@ Open to work experience opportunities around the Aberdeen area specifically in <
   - Docker Swarm management and automation
   - Cloud hosting and infrastructure management
   - Automation to setup my windows/linux workstations with zero touch via ansible and powershell
+  - A tailscale monitoring software so give live and historic insights into tailnet machines
 ### 🌱 I’m currently learning ...
   - C# and .NET frameworks
+  - Ansible Automation
+  - Infrastructure as Code
   - Cisco network administration
   - SQL database management
+  - Go / Golang
+  - Full stack development
 
 ### 🏆 Skills
   - C# / .NET
@@ -44,11 +50,12 @@ Open to work experience opportunities around the Aberdeen area specifically in <
   - Linux Command Line Administration / Development
 
 ### 🌐 Socials:
-Check out my
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alfie-ford-ccs)
-or ping me a  [![email](https://img.shields.io/badge/Email-D14836?logo=protonmail&logoColor=white)](mailto:alfieford.cybersec@protonmail.com)
+Check out my [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alfie-ford-ccs)
+or ping me a [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aford@cloudforestcyber.co.uk) 
 
 Also have a look at my blog [on my website](blueprints.cloudforestcyber.co.uk) here!
+
+
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Spectre7651&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
