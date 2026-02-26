@@ -60,4 +60,6 @@ Also have a look at my blog [on my website](blueprints.cloudforestcyber.co.uk) h
 ![](https://nirzak-streak-stats.vercel.app/?user=Spectre7651&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Spectre7651&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+![Snake animation](https://github.com/Spectre7651/Spectre7651/blob/output/github-contribution-grid-snake.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
