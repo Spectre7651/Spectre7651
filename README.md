@@ -51,15 +51,3 @@ Open to work experience opportunities around the Aberdeen area specifically in <
 Check out my [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alfie-ford-ccs)
 or ping me a [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aford@cloudforestcyber.co.uk) 
 
-Also have a look at my blog [on my website](blueprints.cloudforestcyber.co.uk) here!
-
-
-
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Spectre7651&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Spectre7651&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Spectre7651&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-![Snake animation](https://github.com/Spectre7651/Spectre7651/blob/output/github-contribution-grid-snake.svg)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
