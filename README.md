@@ -3,10 +3,11 @@ Open to work experience opportunities around the Aberdeen area specifically in <
 
 ### 💻 Tech Stack:
 #### Favorites
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) 
+![Terraform](https://img.shields.io/badge/Terraform-5835CC?flat&logo=terraform&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) 
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
@@ -14,8 +15,7 @@ Open to work experience opportunities around the Aberdeen area specifically in <
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 #### Still Learning
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
-![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black) 
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)  
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) 
@@ -24,11 +24,9 @@ Open to work experience opportunities around the Aberdeen area specifically in <
 ## 💫 About Me:
 
 ### 🔭 I’m currently working on:
-  - Ansible automation for my little homelab setup of a couple of Raspberry Pi's and assorted hardware
-  - Docker Swarm management and automation
-  - Cloud hosting and infrastructure management
-  - Automation to setup my windows/linux workstations with zero touch via ansible and powershell
-  - A tailscale monitoring software so give live and historic insights into tailnet machines
+  - Making my homelab and cloud deployments all infrastructure as code
+  - Creating a web hosting/deployment management platform as a startup
+  - Improving my general web development skills
 ### 🌱 I’m currently learning ...
   - C# and .NET frameworks
   - Ansible Automation
@@ -39,8 +37,8 @@ Open to work experience opportunities around the Aberdeen area specifically in <
   - Full stack development
 
 ### 🏆 Skills
+  - Ansible configuration management
   - C# / .NET
-  - Ansible
   - Docker Container Management
   - Basic Cisco Network Administration (CLI/GUI)
   - Python3
