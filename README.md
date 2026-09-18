@@ -1,5 +1,7 @@
 ## Student at Robert Gordon University studying Bsc (Hons) Cyber Security aspiring to become a Cyber Security Consultant
-Open to work experience opportunities around the Aberdeen area specifically in <b>Cyber Security, Network Administration </b>or<b> Software Development</b> positions
+I am definitely a geek, I am interested in anything to do with technology and cyber security, I enjoy learning about networks and security operations, as well as the human side of security and how we can make the world more secure. I am aspiring to become an cyber security and network consultant and possibly a keynote speaker. Hopefully I will also be starting a Platform as a Service startup soon and I'm looking forward to the learning opportunities that will bring.
+
+I’m also open to any opportunities such as placements and internships to improve my skills and knowledge preferably around the Greater Aberdeen area however I'm always up for an adventure anywhere.
 
 ### 💻 Tech Stack:
 #### Favorites
